@@ -72,7 +72,7 @@
 ## 📬 Contact Me
 
 📞 6385302800  
-📧 Add your email  
+📧 vrs6810@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/vengatesans  
 
 ---
