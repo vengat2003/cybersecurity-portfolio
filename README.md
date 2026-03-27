@@ -1,79 +1,82 @@
-# 👋 Hi, I'm Vengatesan S
+<h1 align="center">👋 Hi, I'm Vengatesan S</h1>
+<h3 align="center">🔐 Aspiring Cybersecurity Analyst | Future Penetration Tester</h3>
 
-🎯 Aspiring Cybersecurity Analyst | Future Penetration Tester  
-📍 Musiri, Tamil Nadu, India  
-📅 DOB: 11 April 2003  
+<p align="center">
+  📍 Musiri, Tamil Nadu, India | 🎯 Singapore Dream  
+</p>
 
 ---
 
 ## 🚀 About Me
-I am a passionate cybersecurity learner with a strong interest in penetration testing and security analysis.  
-I have completed my Diploma in Computer Science Engineering and currently improving my skills in cybersecurity, networking, and ethical hacking.
 
-I am actively preparing for SOC Analyst roles and aiming to work in Singapore in the future.
+💡 Passionate cybersecurity learner with strong interest in ethical hacking and penetration testing.  
+🎓 Diploma in Computer Science Engineering (2022)  
+🔥 Currently building skills in cybersecurity, networking & SOC analysis  
 
 ---
 
 ## 🧠 Skills
 
-- Networking Basics (IP, Ports, DNS)
-- Linux Fundamentals
-- Cybersecurity Basics
-- Basic Kali Linux Usage
-- Learning: Nmap, Burp Suite, Web Security
+🔹 Networking Basics (IP, Ports, DNS)  
+🔹 Linux Fundamentals  
+🔹 Cybersecurity Basics  
+🔹 Kali Linux (Basic)  
+🔹 Learning: Nmap, Burp Suite, Web Security  
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tools & Technologies
 
-- Kali Linux  
-- Nmap (Learning)  
-- Burp Suite (Learning)  
-- Wireshark (Basic)  
+<p>
+  🐧 Kali Linux &nbsp;
+  🔍 Nmap &nbsp;
+  🕷️ Burp Suite &nbsp;
+  📡 Wireshark &nbsp;
+</p>
 
 ---
 
 ## 📚 Learning Platforms
 
-- TryHackMe  
-- PortSwigger Web Security Academy  
-- OverTheWire  
+🚀 TryHackMe  
+🚀 PortSwigger Web Security Academy  
+🚀 OverTheWire  
 
 ---
 
 ## 📊 Current Focus
 
-- SOC Analyst Skills  
-- Log Analysis  
-- Web Application Security  
-- English Communication Improvement  
+🎯 SOC Analyst Skills  
+📊 Log Analysis  
+🌐 Web Application Security  
+🗣️ Improving English Communication  
 
 ---
 
 ## 🧪 Projects (Updating Soon)
 
-- 🔹 Mini Cybersecurity Lab Setup  
-- 🔹 Basic Network Scanning Project  
-- 🔹 Web Vulnerability Practice Notes  
+🔹 Mini Cybersecurity Lab  
+🔹 Network Scanning Project  
+🔹 Web Vulnerability Practice  
 
 ---
 
 ## 📈 Goals
 
-- 🎯 Get SOC Analyst Job (2026)  
-- 🔐 Become Penetration Tester  
-- 🌍 Work in Singapore  
+🎯 SOC Analyst Job (2026)  
+🔐 Become Penetration Tester  
+🌍 Work in Singapore  
 
 ---
 
 ## 📬 Contact Me
 
-📞 Phone: 6385302800  
-📧 Email: (add your email)  
+📞 6385302800  
+📧 Add your email  
 🔗 LinkedIn: https://www.linkedin.com/in/vengatesans  
 
 ---
 
 ## 💪 Motivation
 
-"Consistency is more powerful than talent."
+🔥 "Consistency beats talent. I show up every day."
